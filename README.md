@@ -23,7 +23,7 @@ Enter the Reactor Core unprepared… and the consequences are immediate.
 ## Game Map
 
 <p align="center">
-  <img src="aurelia-map.png" width="600"><br>
+  <img src="./images/aurelia-map.png" width="600"><br>
   <em>Station layout and room connectivity for the Aurelia.</em>
 </p>
 
