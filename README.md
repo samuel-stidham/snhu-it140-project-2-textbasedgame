@@ -60,7 +60,7 @@ Collect all **6 components** before entering the **Reactor Core**.
 
 ## Project Structure
 
-- `TextBasedGame.py`
+- `aurelia_text_adventure.py`
 - `README.md`
 
 ---
